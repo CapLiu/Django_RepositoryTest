@@ -1,0 +1,1 @@
+/home/liu/.local/lib/python3.5/site-packages/django/bin/django-admin.py
